@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "955219560143",
+    "project_id": "fir-sink",
+    "storage_bucket": "fir-sink.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955219560143:android:ab9a08490baf5f205459ba",
+        "android_client_info": {
+          "package_name": "com.example.firebase_sink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955219560143-lu262n2kmphf0lg3jl9hor5gaofpej1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKBxKvaaKe3c1D2rB2XcM7Sw9Gy1imX_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955219560143-lu262n2kmphf0lg3jl9hor5gaofpej1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955219560143:android:64f03ad880c56a335459ba",
+        "android_client_info": {
+          "package_name": "com.example.notesapp057"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955219560143-lu262n2kmphf0lg3jl9hor5gaofpej1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKBxKvaaKe3c1D2rB2XcM7Sw9Gy1imX_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955219560143-lu262n2kmphf0lg3jl9hor5gaofpej1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
